@@ -23,6 +23,10 @@ public class EmployeeClass {
 		ec.getEmployeeId();
 		ec.getEmployeeName();
 		ec.getEmployeeAddress();
+		ec.getEmployeeAddress();
+		ec.getEmployeeAddress();
+		ec.getEmployeeAddress();
+		ec.getEmployeeAddress();
 	}
 
 }
